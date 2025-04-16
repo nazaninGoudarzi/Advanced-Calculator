@@ -1,4 +1,4 @@
-# Simple Python Calculator
+# Advanced Python Calculator
 
 A command-line calculator written in Python.  
-Supports basic math operations: +, -, *, /
+It supports parenthesis. In addition to basic operators, it supports ^ for power and % for calculating the square root of a number.
